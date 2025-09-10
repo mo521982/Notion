@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: 'xinhui云居民社区等着你', url: 'https://55795496.xyz' },
-    { title: '从零开始做云居民', url: 'https://55795496.xyz' }
+    { title: 'xinhui云居民社区等着你', url: '/tag/海外开户' },
+    { title: '从零开始做云居民', url: '/tag/资源分享' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -49,7 +49,7 @@ const CONFIG = {
   ],
 
   // 个人资料底部按钮
-  HEO_INFO_CARD_URL1: '/about',
+  HEO_INFO_CARD_URL1: '/tag/资源分享',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://github.com/mo521982',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
