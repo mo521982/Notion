@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: '55795496.xyz',
   HEO_HERO_TITLE_4: 'xinhui',
   HEO_HERO_TITLE_5: '虚拟资产=现实资产的方法',
-  HEO_HERO_TITLE_LINK: 'https://55795496.xyz',
+  HEO_HERO_TITLE_LINK: '/tag/资源分享',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
@@ -53,7 +53,7 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://github.com/mo521982',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.55795496.xyz',
+  HEO_INFO_CARD_URL3: '/tag/资源分享',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
