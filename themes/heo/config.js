@@ -29,7 +29,7 @@ const CONFIG = {
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '海外开户', url: '/tag/海外开户' },
-  HEO_HERO_CATEGORY_2: { title: '各种U卡', url: '/tag/各种U卡' },
+  HEO_HERO_CATEGORY_2: { title: '梯子节点', url: '/tag/梯子节点' },
   HEO_HERO_CATEGORY_3: { title: '实用工具', url: '/tag/实用工具' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
