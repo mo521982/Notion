@@ -38,7 +38,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '做一个云居民',
   HEO_HERO_TITLE_3: '2xinhui.com',
   HEO_HERO_TITLE_4: 'U卡开户',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HEO_HERO_TITLE_5: '联系Xinhui轻松定制服务',
   HEO_HERO_TITLE_LINK: 'https://www.2xinhui.com',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
