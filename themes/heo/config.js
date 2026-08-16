@@ -37,7 +37,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享海外开户',
   HEO_HERO_TITLE_2: '做一个云居民',
   HEO_HERO_TITLE_3: '2xinhui.com',
-  HEO_HERO_TITLE_4: 'U卡开户',
+  HEO_HERO_TITLE_4: '虚拟资产=现实资产的方法',
   HEO_HERO_TITLE_5: '联系Xinhui轻松定制服务',
   HEO_HERO_TITLE_LINK: 'https://www.2xinhui.com',
   // 英雄区遮罩文字
@@ -60,10 +60,10 @@ const CONFIG = {
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
     '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
+    '🤝 免费资源分享',
+    '🏃 虚拟现实结合',
+    '🏠 数字交易羊毛',
+    '🤖️ 资金流动方式',
     '🧱 团队小组发动机'
   ],
 
@@ -140,7 +140,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_URL: 'https://t.me/xinhui999',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
@@ -157,7 +157,7 @@ const CONFIG = {
   HEO_MENU_SEARCH: true, // 显示搜索
 
   HEO_POST_LIST_COVER: true, // 列表显示文章封面
-  HEO_POST_LIST_COVER_HOVER_ENLARGE: false, // 列表鼠标悬停放大
+  HEO_POST_LIST_COVER_HOVER_ENLARGE: true, // 列表鼠标悬停放大
 
   HEO_POST_LIST_COVER_DEFAULT: true, // 封面为空时用站点背景做默认封面
   HEO_POST_LIST_SUMMARY: true, // 文章摘要
