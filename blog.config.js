@@ -16,7 +16,7 @@ const BLOG = {
   APPEARANCE: process.env.NEXT_PUBLIC_APPEARANCE || 'light', // ['light', 'dark', 'auto'], // light 日间模式 ， dark夜间模式， auto根据时间和主题自动夜间模式
   APPEARANCE_DARK_TIME: process.env.NEXT_PUBLIC_APPEARANCE_DARK_TIME || [18, 6], // 夜间模式起至时间，false时关闭根据时间自动切换夜间模式
 
-  AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'NotionNext', // 您的昵称 例如 tangly1024
+  AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'xinhui工作室', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '网络数字云居民🍚', // 作者简介
   LINK: process.env.NEXT_PUBLIC_LINK || 'https://www.2xinhui.com', // 网站地址
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'U卡, 海外开户', // 网站关键词 英文逗号隔开
@@ -70,7 +70,7 @@ const BLOG = {
   // 欢迎语打字效果,Hexo,Matery主题支持, 英文逗号隔开多个欢迎语。
   GREETING_WORDS:
     process.env.NEXT_PUBLIC_GREETING_WORDS ||
-    'Hi，我是一个程序员, Hi，我是一个打工人,Hi，我是一个干饭人,欢迎来到我的博客🎉',
+    'Hi，我是一个Xinhui, Hi，我是一个云居民,Hi，我是一个干饭人,欢迎来到我的博客🎉',
 
   // 欢迎语打字效果类型速度
   GREETING_WORDS_TYPE_SPEED:
